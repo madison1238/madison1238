@@ -1,9 +1,7 @@
 ## Hi, I'm Madison 👋
-🔭 I am a Computer Science Student at West Texas A&M University, where I am also employed as an Undergraduate Research Assistant.<br>
+I am a computer science student and Undergraduate Research Assistant at West Texas A&M University
 
-🛠️ I mainly have experience with Python and SQL, but I am always open to learning new technologies!<br>
-
-💻 I love turning ideas into code and creating things that are both useful and fun.<br>
-
-🤝 I’m always open to collaborating and learning from others.<br>
-
+⚙️ I use Python, Linux Environments, and a HPC system basically on a daily basis<br>
+💻 Hands-on experience with Linux HPC systems, using the Unix shell to run and manage computational research workflows<br>
+🌱 Passionate about learning new technologies and always looking for the next thing to dive into <br>
+🤝 Always open to collaborating, learning, and connecting with others<br>
